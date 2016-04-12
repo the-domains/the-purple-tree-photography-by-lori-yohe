@@ -1,0 +1,28 @@
+name: 'The Purple Tree [photography by lori yohe]'
+favicon: null
+layout_spectrum: 0.7164189107716084
+typography_spectrum: 0.07041358761489391
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5821722683031112
+  lightness: 0.5188530185259879
+  saturation: 0.9283853257074952
+  rhythmicContrast: 0.7483968373853713
+purpose: []
